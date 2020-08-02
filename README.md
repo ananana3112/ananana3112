@@ -1,5 +1,4 @@
-Nice to meet you 👋
-I'm Anh ✨
+Nice to meet you 👋 Thank you for checking my github✨
 - 🔭 I’m currently working as an IT recruiter
 - 🌱 I’m also learning front-end & designing stuff to switch to developer career
 - 🧑 I have a great teacher and supporter - my beloved bf 🏹
