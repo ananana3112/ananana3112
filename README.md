@@ -1,4 +1,4 @@
-Nice to meet you 👋 Thank you for checking my github✨
+Thank you for checking my github 👋 Here is something about me 🤔
 - 🔭 I’m currently working as an IT recruiter
 - 🌱 I’m also learning front-end & designing stuff to switch to developer career
 - 🧑 I have a great teacher and supporter - my beloved bf 🏹
