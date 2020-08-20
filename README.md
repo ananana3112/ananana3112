@@ -1,5 +1,5 @@
 Thank you for checking my github 👋 Here is something about me 🤔
-- 🌱 I’m also learning front-end & designing stuff to become a developer
+- 🌱 I’m self learning front-end development & UI/UX designing
 - 🧑 I have a great teacher and supporter - my beloved bf 🏹
 - 🍀 How to pronoun my name: Ann or アン
 - ⚡ Fun fact: I love spicy food challenge
