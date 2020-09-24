@@ -1,6 +1,6 @@
 Thank you for checking my github 👋 Here is something about me 🤔
 - 🌱 I’m self learning front-end development & UI/UX designing
-- 🧑 I have a great teacher and supporter - my beloved bf 🏹
+- 🧑 I have a great teacher and supporter - my beloved husband 🏹
 - 🍀 How to pronoun my name: Ann or アイン
 - ⚡ Fun fact: I love spicy food challenge
 
